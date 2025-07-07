@@ -15,27 +15,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andilauww&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-<!-- 3 Kolom Rapi: Language | Icon+IG | GIF -->
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 30px; flex-wrap: nowrap; margin-bottom: 30px;">
+<!-- 3 Kolom Jejer: Icon+IG | Streak | GIF -->
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 25px; flex-wrap: wrap; margin-bottom: 30px;">
 
-  <!-- Kolom 1: Language Card (dipendekkan) -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andilauww&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=false" width="300" height="170" />
+  <!-- Kolom 1: Icon Teknologi + Instagram -->
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+    <div style="display: flex; gap: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36" />
+    </div>
+    <a href="https://www.instagram.com/andilauw._?igsh=ZnNhaG9pdDJrNDZ3" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="36" />
+    </a>
   </div>
 
-  <!-- Kolom 2: Icons + IG -->
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
-    <!-- Icons -->
-    <div style="display: flex; gap: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="38" />
-    </div>
-    <!-- Instagram -->
-    <a href="https://www.instagram.com/andilauw._?igsh=ZnNhaG9pdDJrNDZ3" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="38" />
-    </a>
+  <!-- Kolom 2: GitHub Streak Stats -->
+  <div>
+    <img src="https://streak-stats.demolab.com?user=Andilauww&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   </div>
 
   <!-- Kolom 3: Good Morning GIF -->
@@ -44,7 +42,6 @@
   </div>
 
 </div>
-
 
 
 ###
