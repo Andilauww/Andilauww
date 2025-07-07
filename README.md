@@ -41,7 +41,7 @@
 
 ###
 
-<br clear="both">
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andilauww/Andilauww/output/pacman-contribution-graph-dark.svg">
