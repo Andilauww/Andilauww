@@ -17,33 +17,30 @@
 
 ###
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap;">
+<img align="right" height="140" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZxemtobHJsdzIycnJwZWIxYzJxMjMzeXJ6cHdvb3lxNTJrOG85dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZqHGX9HvKKlRjmOQvR/giphy.gif"  />
 
-  <!-- Kiri: Icon & Instagram -->
-  <div align="left">
-    <!-- Teknologi Icons -->
-    <div style="margin-bottom: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-    </div>
-    <!-- Instagram -->
-    <div>
-      <a href="https://www.instagram.com/andilauw._?igsh=ZnNhaG9pdDJrNDZ3" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo" />
-      </a>
-    </div>
-  </div>
+###
 
-  <!-- Kanan: GIF -->
-  <div align="right">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZxemtobHJsdzIycnJwZWIxYzJxMjMzeXJ6cHdvb3lxNTJrOG85dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZqHGX9HvKKlRjmOQvR/giphy.gif" height="100" />
-  </div>
+</br>
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/andilauw._?igsh=ZnNhaG9pdDJrNDZ3" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
