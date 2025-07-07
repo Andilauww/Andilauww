@@ -42,7 +42,7 @@
 
 <!-- Good Morning Pixel Art -->
 <div align="right">
-  <img src="https://raw.githubusercontent.com/Andilauww/Andilauww/main/assets/good-morning.png" height="120" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZxemtobHJsdzIycnJwZWIxYzJxMjMzeXJ6cHdvb3lxNTJrOG85dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZqHGX9HvKKlRjmOQvR/giphy.gif" height="120" />
 </div>
 
 
