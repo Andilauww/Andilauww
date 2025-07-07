@@ -1,5 +1,5 @@
 <!-- Banner dan Komputer disusun sejajar -->
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 70px;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <!-- Komputer -->
   <img src="https://i.imgur.com/Ldpuoc7.gif" height="120" />
 
