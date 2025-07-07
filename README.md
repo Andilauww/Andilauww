@@ -10,7 +10,7 @@
 <hr style="margin: 20px 0;" />
 
 <!-- Stats dan Language sejajar dengan jarak + ukuran sama -->
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px; margin-bottom: 30px;">
+<div align="left" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px; margin-bottom: 30px;">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andilauww&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=5&theme=dracula&hide_border=false" width="420" height="180" />
 </div>
