@@ -30,7 +30,7 @@
     </td>
     <!-- Kolom 3: GIF -->
     <td align="center" style="padding: 10px;">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZxemtobHJsdzIycnJwZWIxYzJxMjMzeXJ6cHdvb3lxNTJrOG85dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZqHGX9HvKKlRjmOQvR/giphy.gif" height="150" />
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZxemtobHJsdzIycnJwZWIxYzJxMjMzeXJ6cHdvb3lxNTJrOG85dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZqHGX9HvKKlRjmOQvR/giphy.gif" height="140" />
     </td>
   </tr>
 </table>
