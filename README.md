@@ -9,15 +9,13 @@
 
 <hr style="margin: 20px 0;" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andilauww&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Andilauww&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andilauww&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
 <table align="center">
   <tr>
     <!-- Kolom 1: Icon + IG -->
+    <td align="center" style="padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andilauww&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+    </td>
+    <!-- Kolom 2: Streak Stats -->
     <td align="center" style="padding: 10px;">
       <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" />
@@ -29,10 +27,6 @@
       <a href="https://www.instagram.com/andilauw._?igsh=ZnNhaG9pdDJrNDZ3" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="36" />
       </a>
-    </td>
-    <!-- Kolom 2: Streak Stats -->
-    <td align="center" style="padding: 10px;">
-      <img src="https://streak-stats.demolab.com?user=Andilauww&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
     </td>
     <!-- Kolom 3: GIF -->
     <td align="center" style="padding: 10px;">
