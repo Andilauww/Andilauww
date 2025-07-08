@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/Ldpuoc7.gif" height="130" />
 
   <!-- Banner -->
-  <img src="https://i.imgur.com/iuMeyZS.png" height="150" />
+  <img src="https://i.imgur.com/kuzLdqX.png" height="150" />
 </div>
 
 <hr style="margin: 20px 0;" />
