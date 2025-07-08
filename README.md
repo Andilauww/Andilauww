@@ -10,7 +10,7 @@
 <hr style="margin: 20px 0;" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andilauww&hide_title=false&card_width=470&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andilauww&hide_title=false&card_width=470&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=true" height="140" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Andilauww&locale=en&mode=daily&card_width=700&theme=dracula&hide_border=true&border_radius=5" height="140" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andilauww&locale=en&hide_title=false&layout=compact&card_width=850&langs_count=5&theme=dracula&hide_border=true" height="200" alt="languages graph"  />
 </div>
