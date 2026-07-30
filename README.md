@@ -1,56 +1,110 @@
-<!-- Komputer dan Banner sejajar + gap -->
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 30px; margin-bottom: 30px;">
-  <!-- Komputer -->
-  <img src="https://i.imgur.com/Ldpuoc7.gif" height="130" />
+---
 
-  <!-- Banner -->
-  <img src="https://i.imgur.com/kuzLdqX.png" height="150" />
-</div>
+# 👋 Hi, I'm Andi Wicaksono
 
-<hr style="margin: 20px 0;" />
+### Front-End Developer from Indonesia 🇮🇩
 
-###
+Saya adalah mahasiswa Diploma Teknik Informatika yang berfokus pada pengembangan aplikasi web modern. Saat ini saya mendalami Front-End Development menggunakan React, TypeScript, dan Laravel serta memiliki ketertarikan pada integrasi Generative AI dalam pengembangan aplikasi web.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andilauww/Andilauww/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andilauww/Andilauww/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Andilauww/Andilauww/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+## 🚀 About Me
 
-<img align="right" height="140" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZxemtobHJsdzIycnJwZWIxYzJxMjMzeXJ6cHdvb3lxNTJrOG85dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZqHGX9HvKKlRjmOQvR/giphy.gif"  />
+- 🎓 Diploma in Informatics Engineering
+- 💻 Passionate about Front-End Development
+- 🌱 Currently learning React, TypeScript, Laravel & Next.js
+- 🤖 Interested in Generative AI
+- 🎯 Building responsive and modern web applications
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-</div>
+## 🛠 Tech Stack
 
-###
+**Frontend**
 
-<div align="left">
-  <a href="https://www.instagram.com/andilauw._?igsh=ZnNhaG9pdDJrNDZ3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-</div>
+- React
+- TypeScript
+- JavaScript
+- Bootstrap
+- CSS
 
+**Backend**
 
+- Laravel
+- PHP
+
+**Database**
+
+- MySQL
+- Supabase
+
+**Tools**
+
+- Git
+- GitHub
+- VS Code
+- Figma
+
+---
+
+## 📌 Featured Projects
+
+### 🎓 University Talent Hub
+
+Talent management platform for university students.
+
+**Tech Stack**
+
+React • TypeScript • Supabase • Tailwind CSS
+
+---
+
+### 🌐 Portfolio Website
+
+Personal portfolio website showcasing my projects and experiences.
+
+**Tech Stack**
+
+React • Vite • CSS
+
+---
+
+### 📚 Library Management System
+
+Web-based library management application.
+
+**Tech Stack**
+
+Laravel • Bootstrap • MySQL
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Andilauww&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andilauww&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📫 Contact
+
+🌐 Portfolio
+
+https://andi-wicaksono.vercel.app
+
+📧 Email
+
+your-email@gmail.com
+
+💼 LinkedIn
+
+https://linkedin.com/in/username
+
+📷 Instagram
+
+https://instagram.com/andilauw._
