@@ -7,7 +7,6 @@
 </div>
 
 <br>
-<br>
 
 <!-- Tech Stack -->
 <p align="center">
