@@ -85,9 +85,3 @@ Talent management platform for university students.
 **Tech Stack**
 
 React • TypeScript • Supabase • Tailwind CSS
-
-https://linkedin.com/in/username
-
-📷 Instagram
-
-https://instagram.com/andilauw._
