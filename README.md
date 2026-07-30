@@ -1,4 +1,4 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 30px; margin-bottom: 30px;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 30px;">
   <!-- Komputer -->
   <img src="https://i.imgur.com/Ldpuoc7.gif" height="130" />
 
@@ -6,29 +6,33 @@
   <img src="https://i.imgur.com/kuzLdqX.png" height="150" />
 </div>
 
+<br>
+<br>
+
 <!-- Tech Stack -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
   <img width="18"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
   <img width="18"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
   <img width="18"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45"/>
   <img width="18"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45"/>
   <img width="18"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45"/>
   <img width="18"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
   <img width="18"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
-  <img width="18"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-  <img width="18"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
-  <img width="18"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45"/>
 </p>
 
 ---
