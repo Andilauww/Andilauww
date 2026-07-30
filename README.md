@@ -1,10 +1,34 @@
 ---
 
-# 👋 Hi, I'm Andi Wicaksono
+<!-- Komputer + Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/Ldpuoc7.gif" height="130" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://i.imgur.com/kuzLdqX.png" height="150" />
+</p>
 
-### Front-End Developer from Indonesia 🇮🇩
+<!-- Tech Stack -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
+  <img width="15" />
 
-Saya adalah mahasiswa Diploma Teknik Informatika yang berfokus pada pengembangan aplikasi web modern. Saat ini saya mendalami Front-End Development menggunakan React, TypeScript, dan Laravel serta memiliki ketertarikan pada integrasi Generative AI dalam pengembangan aplikasi web.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
+  <img width="15" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+  <img width="15" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="Bootstrap" />
+  <img width="15" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" />
+  <img width="15" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45" alt="Laravel" />
+  <img width="15" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
+</p>
 
 ---
 
@@ -56,26 +80,6 @@ Talent management platform for university students.
 **Tech Stack**
 
 React • TypeScript • Supabase • Tailwind CSS
-
----
-
-### 🌐 Portfolio Website
-
-Personal portfolio website showcasing my projects and experiences.
-
-**Tech Stack**
-
-React • Vite • CSS
-
----
-
-### 📚 Library Management System
-
-Web-based library management application.
-
-**Tech Stack**
-
-Laravel • Bootstrap • MySQL
 
 ---
 
