@@ -40,7 +40,7 @@
 
 - 🎓 Diploma in Informatics Engineering
 - 💻 Passionate about Front-End Development
-- 🌱 Currently learning React, TypeScript, Laravel & Next.js
+- 🌱 Currently learning React, TypeScript & Laravel
 - 🤖 Interested in Generative AI
 - 🎯 Building responsive and modern web applications
 
