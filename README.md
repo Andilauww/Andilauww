@@ -1,5 +1,3 @@
----
-
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 30px; margin-bottom: 30px;">
   <!-- Komputer -->
   <img src="https://i.imgur.com/Ldpuoc7.gif" height="130" />
