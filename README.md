@@ -86,32 +86,6 @@ Talent management platform for university students.
 
 React • TypeScript • Supabase • Tailwind CSS
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Andilauww&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andilauww&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📫 Contact
-
-🌐 Portfolio
-
-https://andi-wicaksono.vercel.app
-
-📧 Email
-
-your-email@gmail.com
-
-💼 LinkedIn
-
 https://linkedin.com/in/username
 
 📷 Instagram
