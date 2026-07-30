@@ -9,10 +9,6 @@
 
 <hr style="margin: 20px 0;" />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Andilauww&locale=en&mode=daily&card_width=705&theme=prussian&hide_border=true&border_radius=5" height="140" alt="streak graph"  />
-</div>
-
 ###
 
 <picture>
